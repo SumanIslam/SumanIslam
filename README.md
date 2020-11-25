@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋, I'm Suman Islam</h1>
 <h3 align="center">Front-End Web Developer | JavaScript lover | Tech Enthusiast</h3>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SumanIslam?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=SumanIs60417396)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SumanIs60417396?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=SumanIs60417396)
 ![Twitter URL](https://img.shields.io/twitter/url?label=connect&logo=LinkedIn&logoColor=%230077B5&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsumanislam%2F)
 
 
