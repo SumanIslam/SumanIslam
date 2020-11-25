@@ -19,7 +19,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="suman.com" width="22px" src="https://peaceful-mccarthy-b5230b.netlify.app/" />][website]
 [<img align="left" alt="suman | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="suman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="suman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
