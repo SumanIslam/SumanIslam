@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋, I'm Suman Islam</h1>
+<h1 align="center">Hi There 👋, I'm [SumanIslma][website]</h1>
 <h3 align="center">Front-End Web Developer | JavaScript lover | Tech Enthusiast</h3>
 
 (![Website](https://img.shields.io/website?label=SumanIslam&url=https%3A%2F%2Fpeaceful-mccarthy-b5230b.netlify.app%2F))]
