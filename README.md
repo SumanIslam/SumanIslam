@@ -1,7 +1,11 @@
 <h1 align="center">Hi There 👋, I'm Suman Islam</h1>
 <h3 align="center">Front-End Web Developer | JavaScript lover | Tech Enthusiast</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SumanIslam&label=Views&color=blue&style=plastic" alt="suman Islam" /> </p>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/SumanIs60417396?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=SumanIs60417396)
+[![Linkedin: sumanislam](https://img.shields.io/badge/-sumanislam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumanislam/)](https://www.linkedin.com/in/sumanislam/)
+[![GitHub SumanIslam](https://img.shields.io/github/followers/SumanIslam?label=follow&style=social)](https://github.com/SumanIslam)
 
 
 
