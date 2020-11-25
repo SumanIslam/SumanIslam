@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Web Developer | JavaScript lover | Tech Enthusiast</h3>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SumanIslam?color=%231DA1F2&logo=twitter&style=for-the-badge)](
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=Suman Islam)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=SumanIs60417396)
 
 
 ## I'm a Front-end Web Developer, Programmer and student!
