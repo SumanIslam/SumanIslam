@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋, I'm Suman Islam</h1>
 <h3 align="center">Front-End Web Developer | JavaScript lover | Tech Enthusiast</h3>
 
-(![Website](https://img.shields.io/website?label=SumanIslam&url=https%3A%2F%2Fpeaceful-mccarthy-b5230b.netlify.app%2F))](https://peaceful-mccarthy-b5230b.netlify.app/)
+(![Website](https://img.shields.io/website?label=SumanIslam&url=https%3A%2F%2Fpeaceful-mccarthy-b5230b.netlify.app%2F))]
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 
