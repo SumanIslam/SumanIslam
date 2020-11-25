@@ -2,7 +2,6 @@
 <h3 align="center">Front-End Web Developer | JavaScript lover | Tech Enthusiast</h3>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SumanIs60417396?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=SumanIs60417396)
-![Twitter URL](https://img.shields.io/twitter/url?label=connect&logo=LinkedIn&logoColor=%230077B5&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsumanislam%2F)
 
 
 
@@ -20,11 +19,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jisan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="jisan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="jisan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="jisan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jisan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="suman.com" width="22px" src="https://peaceful-mccarthy-b5230b.netlify.app/" />][website]
+[<img align="left" alt="suman | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="suman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="suman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="suman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -51,8 +50,8 @@
 
 
 
-[website]: https://jisan.com
-[twitter]: https://twitter.com/JisanMia4
-[facebook]: https://facebook.com/jisanmia47
-[instagram]: https://instagram.com/ahsan.jishan
-[linkedin]: https://linkedin.com/in/jisan-mia
+[website]: https://peaceful-mccarthy-b5230b.netlify.app/
+[twitter]: https://twitter.com/SumanIs60417396
+[facebook]: https://www.facebook.com/sumanislam.raju/
+[codepen]: https://codepen.io/Suman_Islam
+[linkedin]: https://www.linkedin.com/in/sumanislam/
