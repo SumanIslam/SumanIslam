@@ -40,7 +40,7 @@
 <br />
 <br />
 <br>
-<p>&nbsp;<img align="center" src="github-readme-stats-git-master.sumanislam.vercel.app /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SumanIslam&show_icons=true" alt="Suman Islam" /></p>
 
 
 [twitter]: https://twitter.com/SumanIs60417396
