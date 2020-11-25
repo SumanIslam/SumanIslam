@@ -1,21 +1,21 @@
 <h1 align="center">Hi There 👋, I'm Suman Islam</h1>
 <h3 align="center">Front-End Web Developer | JavaScript lover | Tech Enthusiast</h3>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SumanIslam?color=%231DA1F2&logo=twitter&style=for-the-badge)](
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=SumanIs60417396)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SumanIslam?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=SumanIs60417396)
+
 
 
 ## I'm a Front-end Web Developer, Programmer and student!
 
 - 🔭 I’m currently working on **Javascript Projects**
 
-- 🌱 I’m currently learning **React and Back-end Things**
+- 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://jisan-mia.github.io/jisan-mia/](https://jisan-mia.github.io/jisan-mia/)
+- 👨‍💻 All of my projects are available at [https://github.com/SumanIslam/](https://github.com/SumanIslam/)
 
-- 📫 How to reach me **jisanmia47@gmail.com**
+- 📫 How to reach me **sumunahmed1416@gmail.com**
 
-- ⚡ Fun fact **Tea over Coffee**
+- ⚡ Fun fact **Love fast food**
 
 ### Connect with me:
 
