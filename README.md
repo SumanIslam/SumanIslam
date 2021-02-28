@@ -11,15 +11,15 @@
 
 ## I'm a Front-end Web Developer, Programmer and problem solver!
 
-- 🔭 I’m currently working on **Javascript Projects**
+- 🔭 I’m currently working on **Javascript and React Projects**
 
-- 🌱 I’m currently learning **React and Advanced JavaScript**
+- 🌱 I’m currently learning **React and other javascript technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SumanIslam/](https://github.com/SumanIslam/)
 
 - 📫 How to reach me **sumunahmed1416@gmail.com**
 
-- ⚡ Fun fact **Love fast food**
+- ⚡ Fun fact **Love to sleep**
 
 ### Connect with me:
 
