@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SumanIslam/](https://github.com/SumanIslam/)
 
-- 📫 How to reach me **sumunahmed1416@gmail.com**
+- 📫 How to reach me **sumanislam1416@gmail.com**
 
 - ⚡ Fun fact **Love to sleep**
 
