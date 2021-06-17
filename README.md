@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Javascript and React Projects**
 
-- 🌱 I’m currently learning **React and other javascript technologies**
+- 🌱 I’m currently learning **React and firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SumanIslam/](https://github.com/SumanIslam/)
 
