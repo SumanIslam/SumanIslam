@@ -9,7 +9,7 @@
 
 
 
-## I'm a Front-end Web Developer, Passionate about coding.
+## I'm a Front-end Web Developer, Passionate About Coding.
 
 - 🔭 I’m currently working on **Javascript and React Projects**
 
