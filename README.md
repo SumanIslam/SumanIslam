@@ -50,7 +50,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumanIslam&layout=compact)](https://github.com/SumanIslam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumanIslam&layout=compact)](https://github.com/SumanIslam/)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SumanIslam&show_icons=true&locale=en&layout=compact" alt="SumanIslam" /></p>
