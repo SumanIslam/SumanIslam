@@ -44,9 +44,12 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 </a>
 
-<a href="https://getbootstrap.com/" title="Bootstrap"><img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></a>
+<a href="https://getbootstrap.com/" title="Bootstrap">
+<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></a>
 
-<a href="https://materializecss.com/" title="Materialize CSS"><img align="left" alt="Materialize" width="26px" src="https://bit.ly/3xYOHgr" /><a>
+<a href="https://materializecss.com/" title="Materialize CSS">
+<img align="left" alt="Materialize" width="26px" src="https://bit.ly/3xYOHgr"/>
+<a>
 
 <a href="https://www.w3schools.com/js/" title="JavaScript"><img align="left" alt="JavaScript" titel="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
 
