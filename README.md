@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SumanIslam&label=Views&color=blue&style=plastic" alt="suman Islam" /> </p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SumanIs60417396?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=SumanIs60417396)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SumanIs60417396)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sumanislam/)
 [![GitHub SumanIslam](https://img.shields.io/github/followers/SumanIslam?label=follow&style=social)](https://github.com/SumanIslam)
 
