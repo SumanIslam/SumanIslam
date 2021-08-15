@@ -5,6 +5,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SumanIs60417396?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=SumanIs60417396)
 [![Linkedin: sumanislam](https://img.shields.io/badge/-sumanislam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumanislam/)](https://www.linkedin.com/in/sumanislam/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)
 [![GitHub SumanIslam](https://img.shields.io/github/followers/SumanIslam?label=follow&style=social)](https://github.com/SumanIslam)
 
 
