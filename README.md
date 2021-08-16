@@ -16,8 +16,6 @@
 
 - ⚡ Fun fact **Love to sleep**
 
-</br>
-
 ## Connect with me:
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sumanislam/)
@@ -30,8 +28,6 @@
 
 [<img align="left" alt="codepen" src="https://img.shields.io/badge/codepen-%2312100E.svg?&style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/Suman_Islam)
 </br>
-</br>
-
 
 ## Languages and Tools:
 
