@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **Love to sleep**
 
-## Connect with me:
+# Connect with me:
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sumanislam/)
 
@@ -29,12 +29,6 @@
 [<img align="left" alt="codepen" src="https://img.shields.io/badge/codepen-%2312100E.svg?&style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/Suman_Islam)
 </br>
 
-[<img align="left" alt="suman | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="suman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="suman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="suman | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
-
-<br />
 
 ### Languages and Tools:
 
