@@ -59,7 +59,7 @@
 </a>
   
 <img align="left" alt="Redux" title="redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img align="left" alt="Redux-Saga" titel="" width="26px" src="https://redux-saga.js.org/img/Redux-Saga-Logo.png" />
+<img align="left" alt="Redux-Saga" title="redux-saga" width="26px" style="vertical-align: center;" src="https://redux-saga.js.org/img/Redux-Saga-Logo.png" />
 <img align="left" alt="firebase" titel="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Git" titel="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" titel="" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
