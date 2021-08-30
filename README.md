@@ -67,7 +67,7 @@
 <img align="left" alt="photoshop" titel="" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
 <a href="#" title="terminal"><img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
 
- <a href="https://styled-components.com/" title="styled-component"><img align="left" alt="styled-component" width="26px" src="https://styled-components.com/nav-logo.png" /></a>
+ <a href="https://styled-components.com/" title="styled-component"><img align="left" alt="styled-component" width="56px" src="https://styled-components.com/nav-logo.png" /></a>
 
 <br />
 <br />
