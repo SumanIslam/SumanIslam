@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋, I'm Suman Islam</h1>
-## <h3 align="center">Front-End Web Developer | JavaScript lover | Tech Enthusiast</h3>
+<h3 align="center">Front-End Web Developer | JavaScript lover | Tech Enthusiast</h3>
 
-
+## Front-end Web Developer | JavaScript | React
 - 🔭 I’m currently working on **React Projects**
 
 - 🌱 I’m currently learning **React and Redux**
