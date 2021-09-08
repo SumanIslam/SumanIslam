@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Suman Islam</h1>
-<h3 align="center">Front-End Web Developer | JavaScript lover | Tech Enthusiast</h3>
+## <h3 align="center">Front-End Web Developer | JavaScript lover | Tech Enthusiast</h3>
 
 
 - 🔭 I’m currently working on **React Projects**
