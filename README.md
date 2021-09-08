@@ -1,7 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Suman Islam</h1>
 <h3 align="center">Front-End Web Developer | JavaScript lover | Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SumanIslam&label=Views&color=blue&style=plastic" alt="suman Islam" /> </p>
 
 
 ## Front-end Web Developer | JavaScript | React
