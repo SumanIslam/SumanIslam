@@ -59,7 +59,7 @@
 <img align="left" alt="Redux-Saga" width="35px" style="margin-bottom: -5px;" src="https://redux-saga.js.org/img/Redux-Saga-Logo.png" />
 </a>
 
-<a href="https://firebase.google.com/" title="https://firebase.google.com/">
+<a href="https://firebase.google.com/" title="firebase">
 <img align="left" alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 </a>
 
