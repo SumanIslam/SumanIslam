@@ -54,8 +54,15 @@
 <a href="https://redux.js.org/" title="Redux">
  <img align="left" alt="Redux" title="redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 </a>
-<img align="left" alt="Redux-Saga" title="redux-saga" width="35px" style="margin-bottom: -5px;" src="https://redux-saga.js.org/img/Redux-Saga-Logo.png" />
-<img align="left" alt="firebase" titel="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+
+<a href="https://redux-saga.js.org/" title="redux-saga">
+<img align="left" alt="Redux-Saga" width="35px" style="margin-bottom: -5px;" src="https://redux-saga.js.org/img/Redux-Saga-Logo.png" />
+</a>
+
+<a href="https://firebase.google.com/" title="https://firebase.google.com/">
+<img align="left" alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+</a>
+
 <img align="left" alt="Git" titel="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" titel="" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Visual Studio Code" titel="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
