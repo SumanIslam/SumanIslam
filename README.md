@@ -2,9 +2,9 @@
 <h3 align="center">Web Dev | JavaScript lover | Tech Enthusiast</h3>
 
 ## Front-End Dev | JavaScript | React | Node
-- 🔭 I’m currently working on **React Projects**
+- 🔭 I’m currently working on **React & Node Projects**
 
-- 🌱 I’m currently learning **React and Redux**
+- 🌱 I’m currently learning **Node**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SumanIslam/](https://github.com/SumanIslam/)
 
