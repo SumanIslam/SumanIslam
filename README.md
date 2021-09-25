@@ -76,7 +76,7 @@
 </a>
 
 <a href="https://styled-components.com/" title="styled-component">
-  <img align="left" alt="styled-component" width="100px" src="https://styled-components.com/nav-logo.png" />
+  <img align="left" alt="styled-component" width="26px" src="assets/styledComponent" />
 </a>
 
 <a href="#" title="photoshop">
