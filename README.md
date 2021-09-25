@@ -43,7 +43,6 @@
   <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"     />
 </a>
 
-
 <a href="https://www.w3schools.com/js/" title="JavaScript">
   <img align="left" alt="JavaScript" titel="" width="26px"              src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </a>
@@ -73,7 +72,7 @@
 </a>
 
 <a href="https://code.visualstudio.com/" title="Visual Studio Code">
-  <img align="left" alt="Visual Studio Code" titel="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-   studio-code/visual-studio-code.png" />
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-      code/visual-studio-code.png" />
 </a>
 
 <a href="https://styled-components.com/" title="styled-component">
