@@ -76,11 +76,11 @@
 </a>
 
 <a href="https://styled-components.com/" title="styled-component">
-  <img align="left" alt="styled-component" width="100px" src="assets/styledComponent.png" />
+  <img align="left" alt="styled-component" width="26px" src="assets/styledComponent.png" />
 </a>
 
 <a href="#" title="photoshop">
-  <img align="left" alt="photoshop" titel="" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
+  <img align="left" alt="photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
 </a>
 
 <a href="#" title="terminal">
