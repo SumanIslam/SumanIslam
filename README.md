@@ -63,6 +63,10 @@
   <img align="left" alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 </a>
 
+<a href="https://styled-components.com/" title="styled-component">
+  <img align="left" alt="styled-component" width="30px" src="assets/styledComponent.png" />
+</a>
+
 <a href="https://git-scm.com/" title="Git">
   <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </a>
@@ -75,9 +79,7 @@
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </a>
 
-<a href="https://styled-components.com/" title="styled-component">
-  <img align="left" alt="styled-component" width="30px" src="assets/styledComponent.png" />
-</a>
+
 
 <a href="#" title="photoshop">
   <img align="left" alt="photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
