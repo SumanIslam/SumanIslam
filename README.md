@@ -34,7 +34,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
-![Redux-saga](https://img.shields.io/badge/-Redux-Saga-05122A?style=flat&logo=Redux-Saga)&nbsp;
+![Redux-saga](https://img.shields.io/badge/-Redux-Saga-05122A?style=flat&logo=Saga)&nbsp;
 
 <a href="https://reactjs.org/" title="React">
   <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
