@@ -40,24 +40,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<a href="https://reactjs.org/" title="React">
-  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-</a>
-  
-<a href="https://redux.js.org/" title="Redux">
-  <img align="left" alt="Redux" title="redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-</a>
 
 <a href="https://redux-saga.js.org/" title="redux-saga">
   <img align="left" alt="Redux-Saga" width="35px" style="margin-bottom: -5px;" src="https://redux-saga.js.org/img/Redux-Saga-Logo.png" />
-</a>
-
-<a href="https://nodejs.org/en/" title="Node.js">
-  <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-</a>
-
-<a href="https://firebase.google.com/" title="firebase">
-  <img align="left" alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 </a>
 
 <a href="https://www.postman.com/" title="postman">
@@ -68,20 +53,9 @@
   <img align="left" alt="styled-component" width="30px" src="assets/styledComponent.png" />
 </a>
 
-<a href="https://git-scm.com/" title="Git">
-  <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-</a>
-
-<a href="https://github.com/" title="Github">
-  <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-</a>
-
 <a href="#" title="terminal">
   <img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
 
-<a href="https://code.visualstudio.com/" title="Visual Studio Code">
-  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</a>
 
 <a href="#" title="photoshop">
   <img align="left" alt="photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
