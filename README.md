@@ -25,7 +25,7 @@
 [<img align="left" alt="codepen" src="https://img.shields.io/badge/codepen-%2312100E.svg?&style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/Suman_Islam)
 </br>
 
-## Languages and Tools:
+### 🛠 &nbsp;Tech Stack
 
 <a href="https://html.com/" title="HTML5">
   <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
