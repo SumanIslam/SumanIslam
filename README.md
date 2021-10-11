@@ -68,8 +68,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumanIslam&layout=compact)](https://github.com/SumanIslam?tab=repositories)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SumanIslam&show_icons=true" alt="Suman Islam" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SumanIslam" alt="SumanIslam" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SumanIslam&show_icons=true" alt="Suman Islam" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SumanIslam" alt="SumanIslam" /> </p>
 
 
 
