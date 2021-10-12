@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋, I'm Suman Islam</h1>
-<h3 align="center">Web Dev | JavaScript lover | Tech Enthusiast</h3>
+<h3 align="center">Web Dev | JavaScript | React.js | Node.js| Tech Enthusiast</h3>
 
-### Front-End Dev | JavaScript | React.js | Node.js
+### 👨🏻‍💻 &nbsp;About Me
 - 🔭 I’m currently working on **React & Node Projects**
 
 - 🌱 I’m currently learning **Node.js and Express**
