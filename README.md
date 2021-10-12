@@ -8,7 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SumanIslam/](https://github.com/SumanIslam/)
 
-- 📫 How to reach me **sumanislam1416@gmail.com**
+- 📫 You can email me at sumunahmed1416@gmail.com. I'll try to respond as soon as possible!
+
+- 💬 Ask me about anything related to JS, React, Redux, Node.js.
 
 - ⚡ Fun fact **Love to sleep**
 
