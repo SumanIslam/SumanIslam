@@ -65,9 +65,6 @@
 </a>
 
 
-<br />
-<br />
-<br />
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -77,7 +74,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SumanIslam&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SumanIslam" alt="SumanIslam" />
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SumanIslam&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
