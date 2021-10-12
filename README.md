@@ -64,7 +64,8 @@
   <img align="left" alt="photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
 </a>
 
-
+</br>
+</br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
