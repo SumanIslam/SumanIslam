@@ -69,9 +69,14 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumanIslam&layout=compact)](https://github.com/SumanIslam?tab=repositories)
+### ⚙️ &nbsp;GitHub Analytics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SumanIslam&show_icons=true" alt="Suman Islam" />
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SumanIslam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SumanIslam&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SumanIslam" alt="SumanIslam" />
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SumanIslam&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
