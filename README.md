@@ -12,6 +12,8 @@
 
 - 💬 Ask me about anything related to JS, React, Redux, Node.js.
 
+- ✍️ In my free time, I read books and spend time with friends and family.
+
 - ⚡ Fun fact **Love to sleep**
 
 ### 🤝🏻 Let's Connect
