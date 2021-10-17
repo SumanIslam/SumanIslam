@@ -78,12 +78,4 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SumanIslam&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
 
-##
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/amandewatnitrr/count.svg" />
-</p>
-  
-![snake svg](https://github.com/SumanIslam/SumanIslam1/blob/output/github-contribution-grid-snake.svg)
-
 ### Show some ❤️ by starring some of the repositories!
