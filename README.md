@@ -68,7 +68,7 @@
 </br>
 </br>
 
-### Full Stack Projects
+### ✨ Full Stack Projects
 [![](https://img.shields.io/badge/-👑%20Crwn%20Clothing-000)](https://crwn-live-preview.herokuapp.com/)
 
 ### ⚙️ &nbsp;GitHub Analytics
