@@ -2,9 +2,9 @@
 <h3 align="center">Web Dev | JavaScript | React.js | Node.js | Tech Enthusiast</h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
-- 🔭 I’m currently working on **React & Node Projects**
+- 🔭 I’m currently working on **Node & TypeScript Projects**
 
-- 🌱 I’m currently learning **Node.js and Express**
+- 🌱 I’m currently learning **Advance Node.js & TypeSript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SumanIslam/](https://github.com/SumanIslam/)
 
