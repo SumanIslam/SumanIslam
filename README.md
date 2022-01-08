@@ -77,7 +77,7 @@
     <img width="45.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SumanIslam&theme=algolia" />
   </a>
   <a>
-    <img width="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumanIslam&theme=algolia" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumanIslam&theme=algolia" />
     <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SumanIslam&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
