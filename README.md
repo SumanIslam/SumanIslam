@@ -80,6 +80,8 @@
 
 ### 📈 GitHub Activity Graph
 
+[![Suman's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=SumanIslam&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SumanIslam&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
 
