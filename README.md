@@ -74,7 +74,7 @@
 <p>
   <a href="https://github.com/SumanIslam/">
     <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SumanIslam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img width="45.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SumanIslam&theme=algolia" />
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SumanIslam&theme=dark)]
   </a>
   <a>
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumanIslam&theme=algolia" />
