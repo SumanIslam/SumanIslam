@@ -75,14 +75,7 @@
   <a href="https://github.com/SumanIslam/">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SumanIslam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SumanIslam&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-  
-  </br>
-  </br>
-  
-  <a>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SumanIslam&theme=algolia" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumanIslam&theme=vue" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumanIslam&theme=nord_bright" />
   </a>
 </p>
 
