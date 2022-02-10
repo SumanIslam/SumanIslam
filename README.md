@@ -51,17 +51,6 @@
 ![Terminal](https://img.shields.io/badge/-terminal-05122A?style=flat&logo=terminal)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
-<a href="https://redux-saga.js.org/" title="redux-saga">
-  <img align="left" alt="Redux-Saga" width="35px" style="margin-bottom: -5px;" src="https://redux-saga.js.org/img/Redux-Saga-Logo.png" />
-</a>
-
-
-
-<a href="#" title="terminal">
-  <img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
-
-
 </br>
 </br>
 
