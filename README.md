@@ -10,7 +10,7 @@
 
 - 📫 You can email me at sumunahmed1416@gmail.com. I'll try to respond as soon as possible!
 
-- 💬 Ask me about anything related to JavaScript, React, Redux, Node.js, CI/CD, REST API
+- 💬 Ask me about anything related to JavaScript, TypeScript, React, Redux, Node.js, CI/CD, REST API
 
 - ✍️ In my free time, I read books and spend time with friends and family.
 
