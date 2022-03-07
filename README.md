@@ -44,6 +44,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express.js)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 ![PWA](https://img.shields.io/badge/-PWA-05122A?style=flat&logo=pwa)&nbsp;
