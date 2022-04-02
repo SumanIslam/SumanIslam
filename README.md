@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Suman Islam</h1>
-<h3 align="center">Web Dev | JavaScript | React.js | Node.js | Tech Enthusiast</h3>
+<h3 align="center">Full-Stack Web Dev | JavaScript | TypeScript | React.js | Node.js | MongoDB</h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🔭 I’m currently working on **Node & TypeScript Projects**
