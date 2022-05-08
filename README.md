@@ -48,7 +48,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 ![PWA](https://img.shields.io/badge/-PWA-05122A?style=flat&logo=pwa)&nbsp;
-![Postman](https://img.shields.io/badge/-postman?style=flat-square&logo=postman)
+![Postman](https://img.shields.io/badge/-postman-black?style=flat-square&logo=postman)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
