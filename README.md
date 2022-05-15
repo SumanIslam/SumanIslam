@@ -4,13 +4,13 @@
 ### 👨🏻‍💻 &nbsp;About Me
 - 🔭 I’m currently working on **Node & TypeScript Projects**
 
-- 🌱 I’m currently learning **Advance Node.js & TypeSript**
+- 🌱 I’m currently learning **TypeSript, CI|CD, GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SumanIslam/](https://github.com/SumanIslam/)
 
 - 📫 You can email me at sumunahmed1416@gmail.com. I'll try to respond as soon as possible!
 
-- 💬 Ask me about anything related to JavaScript, TypeScript, React, Redux, Node.js, CI/CD, REST API
+- 💬 Ask me about anything related to JavaScript, TypeScript, React, Redux, Node.js, CI/CD, REST API, GraphQL
 
 - ✍️ In my free time, I read books and spend time with friends and family.
 
