@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 - 🔭 I’m currently working on **Node & TypeScript Projects**
 
-- 🌱 I’m currently learning **TypeSript, CI | CD, GraphQL**
+- 🌱 I’m currently learning **TypeSript, CI/CD, GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SumanIslam/](https://github.com/SumanIslam/)
 
