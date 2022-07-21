@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Web Dev | JavaScript | TypeScript | React.js | Node.js | MongoDB</h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
-- 🔭 I’m currently working on **Node & TypeScript Projects**
+- 🔭 I’m currently working on **GraphQL & TypeScript Projects**
 
 - 🌱 I’m currently learning **TypeSript, CI/CD, GraphQL**
 
