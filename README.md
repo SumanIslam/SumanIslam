@@ -2,9 +2,9 @@
 <h3 align="center">Full-Stack Web Dev | JavaScript | TypeScript | React.js | Node.js | MongoDB</h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
-- 🔭 I’m currently working on **GraphQL & TypeScript Projects**
+- 🔭 I’m currently working on **Next.js Projects**
 
-- 🌱 I’m currently learning **TypeSript**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SumanIslam/](https://github.com/SumanIslam/)
 
