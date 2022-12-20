@@ -69,6 +69,7 @@
 ### 📈 GitHub Activity Graph
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SumanIslam&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+[![Suman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SumanIslam&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### Show some ❤️ by starring some of the repositories!
