@@ -56,6 +56,8 @@
 ### ✨ Full Stack Projects
 [![](https://img.shields.io/badge/-👑%20Crwn%20Clothing-000)](https://crownclothapp.herokuapp.com/)
 
+<img align="right" src="https://github.com/SumanIslam/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p>
