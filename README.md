@@ -30,8 +30,6 @@
 </br>
 </br>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -58,6 +56,9 @@
 
 </br>
 </br>
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 ### ✨ Full Stack Projects
 [![](https://img.shields.io/badge/-👑%20Crwn%20Clothing-000)](https://crownclothapp.herokuapp.com/)
