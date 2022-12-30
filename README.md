@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Suman Islam</h1>
-<h3 align="center">Full-Stack Web Dev | JavaScript | TypeScript | React.js | Node.js | MongoDB</h3>
+<h3 align="center">Full-Stack Web Dev | JavaScript | TypeScript | React | Node.js | MongoDB</h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🔭 I’m currently working on **Next.js Projects**
@@ -41,10 +41,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next JS](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js)&nbsp;
+![Next JS](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
-![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/Express-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![Node](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
