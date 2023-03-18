@@ -2,15 +2,15 @@
 <h3 align="center">Full-Stack Web Dev | JavaScript | TypeScript | React | Node.js | MongoDB</h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
-- 🔭 I’m currently working on **Next.js Projects**
+- 🔭 I’m currently working on **react-query Projects**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **react-query**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SumanIslam/](https://github.com/SumanIslam/)
 
-- 📫 You can email me at sumunahmed1416@gmail.com. I'll try to respond as soon as possible!
+- 📫 You can email me at sumanislam.dev@gmail.com. I'll try to respond as soon as possible!
 
-- 💬 Ask me about anything related to JavaScript, TypeScript, React, Redux, Node.js, CI/CD, REST API, GraphQL
+- 💬 Ask me about anything related to JavaScript, TypeScript, React, Redux, React-Query, Node.js, Express.js, CI/CD, REST API, GraphQL, MongoDB
 
 - ✍️ In my free time, I read books and spend time with friends and family.
 
