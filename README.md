@@ -2,9 +2,9 @@
 <h3 align="center">Full-Stack Web Dev | JavaScript | TypeScript | React | Node.js | MongoDB</h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
-- 🔭 I’m currently working on **react-query Projects**
+- 🔭 I’m currently working on **redux Projects**
 
-- 🌱 I’m currently learning **react-query**
+- 🌱 I’m currently learning **redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SumanIslam/](https://github.com/SumanIslam/)
 
